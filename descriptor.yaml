@@ -38,11 +38,8 @@ components:
     - fragments/cookie-descriptor.yaml
     - fragments/entando_widget_navigation_bar-descriptor.yaml
     - fragments/entando_widget_navigation_bar_include-descriptor.yaml
-    - fragments/jacms_content_viewer-descriptor.yaml
-    - fragments/jacms_content_viewer_list-descriptor.yaml
     - fragments/jacms_content_viewer_list_internal-descriptor.yaml
   pages:
-    - pages/homepage-descriptor.yaml
     - pages/news-descriptor.yaml
     - pages/administration-descriptor.yaml
     - pages/council-descriptor.yaml
